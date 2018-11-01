@@ -1,0 +1,4 @@
+stuck on a very small bug for 2 days!!!!
+Didn't construct KDtree in the GraphDB constructor and every time I make a new KDTree it makes a new KDtree,so it takes even longer than my original closest() method!!!
+However I didn't realize it and I spent 2days to rewrite the KDtree again and again.
+It is really hard to find those little bugs..T^T
